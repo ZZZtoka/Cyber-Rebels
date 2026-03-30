@@ -1,18 +1,5 @@
 # Cybersecurity Portfolio
 
-## Group members Details
-Name:    
-Student ID:  
-
-Name:    
-Student ID:  
-
-Name:    
-Student ID:  
-
-Name:    
-Student ID:  
-
 Name: Bryan Wong  
 Student ID: 24636061  
 
