@@ -14,7 +14,7 @@ I explored public areas around my university campus to identify security measure
 ## Evidence
 
 Figure 1: Security personnel patrolling public transport areas to ensure safety and respond to incidents.  
-![Security Patrol](evidence/security_banner.jpg)
+![CCTV Camera](evidence/public_cctv.jpg)
 
 Figure 2: CCTV camera installed in a public area for monitoring and surveillance.  
 ![CCTV Camera](evidence/public_cctv.jpg)
