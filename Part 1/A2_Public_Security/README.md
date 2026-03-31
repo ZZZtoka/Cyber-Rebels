@@ -1,18 +1,15 @@
-# A2_Public_Security
+## A2_Public_Security
 
 ## Description
-
 I explored public areas around my university campus to identify security measures used to ensure the safety of the general public and prevent potential threats.
 
 ## Findings
-
 - Security personnel patrolling public areas and transport systems
 - Speed enforcement cameras used to regulate traffic and improve road safety
 - Emergency help points available for public assistance
 - CCTV cameras installed inside public transport vehicles for passenger monitoring
 
 ## Evidence
-
 Figure 1: Security personnel patrolling public transport areas to ensure safety and respond to incidents.  
 ![Security Patrol](evidence/POLICE.jpg)
 
