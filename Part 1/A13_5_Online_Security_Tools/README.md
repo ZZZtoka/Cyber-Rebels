@@ -1,33 +1,30 @@
-## A12_5_offline_security_tools
+## A13_5_Online_Security_Tools
 
 ## Description
-I explored different offline security tools used in real-world environments to enhance safety and provide protection without relying on internet connectivity.
+I explored various online security tools that are used to protect devices, data, and users from cyber threats in digital environments.
 
 ## Findings
-- Fire alarm systems used to alert occupants during emergencies
-- Smoke alarms used to detect smoke and provide early warning of fire
-- Emergency exit signs guiding people to safe evacuation routes
-- Emergency help points allowing individuals to request immediate assistance
-- Fire extinguishers used to control small fires and prevent escalation
+- Antivirus software used to detect and remove malware
+- Firewall systems used to monitor and control network traffic
+- Password managers used to securely store and manage passwords
+- Web browsers with built-in security features such as HTTPS protection
+- Account protection systems used to secure user identities
 
 ## Evidence
-Figure 1: Fire alarm activation system used to alert occupants during emergencies.
-![Fire alarm](evidence/fire_alarm.jpg)
+Figure 1: Windows Security dashboard showing active protection against threats.
+![win](evidence/window.jpg)
 
-Figure 2: Emergency exit sign guiding individuals to safe evacuation routes.
-![exit](evidence/exit_sign.jpg)
+Figure 2: Secure website connection using HTTPS encryption indicated by the lock icon.
+![google](evidence/google.jpg)
 
-Figure 3: Emergency help point allowing individuals to request immediate assistance.
-![help](evidence/emergency_help_point.jpg)
+Figure 3: Password manager used to securely store and manage user passwords.
+![pass](evidence/password.jpg)
 
-Figure 4: Fire extinguishers used to control small fires and prevent escalation
-![Fire extinguishers](evidence/Fire_extinguishers.jpg)
-
-Figure 5: Smoke alarm installed to detect smoke and provide early warning of fire.
-![Smoke](evidence/Smoke.jpg)
+Figure 4: Firewall settings used to monitor and control incoming and outgoing network traffic.
+![Firewall](evidence/firewall.jpg)
 
 ## Analysis
-Offline security tools play a critical role in ensuring safety, especially during emergencies when internet connectivity may not be available. Fire alarms and smoke detectors provide early warnings that allow occupants to respond quickly and evacuate safely. Emergency exit signs help guide individuals out of buildings efficiently, reducing panic and confusion. Emergency help points enable users to contact authorities directly, improving response time during incidents. Fire extinguishers provide immediate response capability to control small fires before they escalate. These tools are highly reliable as they operate independently of digital networks, but their effectiveness depends on regular maintenance and user awareness.
+Online security tools are essential in protecting users from cyber threats such as malware, phishing attacks, and unauthorised access. Antivirus software detects and removes malicious programs, while firewalls prevent unauthorised network connections. Password managers improve security by storing strong, unique passwords and reducing the risk of password reuse. Secure web browsing through HTTPS ensures that data transmitted between users and websites is encrypted. Account protection features add an additional layer of security by safeguarding user identities. Together, these tools create a layered defence system for digital environments.
 
 ## Reflection
-This activity helped me understand the importance of offline security tools in maintaining safety in everyday environments. It showed that even without advanced digital systems, essential safety mechanisms play a vital role in protecting people and property.
+This activity helped me understand the importance of using multiple online security tools to protect personal and organisational data. It highlighted how different tools work together to provide comprehensive cybersecurity protection.
