@@ -12,10 +12,10 @@ I explored how cryptography is used in offline environments to protect locally s
 
 ## Evidence
 Figure 1: Device encryption enabled to protect data from unauthorised offline access.
-![window](evidence/disk.jpg)
+![disk](evidence/disk.jpg)
 
 Figure 2: Login authentication using a PIN to restrict access to the device.
-![cert](evidence/lockscreen.jpg)
+![login](evidence/lockscreen.jpg)
 
 ## Analysis
 Offline cryptography is essential for protecting data stored on devices without relying on internet connectivity. Device encryption ensures that all data on the system is converted into an unreadable format unless the correct credentials are provided. This prevents attackers from accessing sensitive information even if the device is stolen. Login authentication methods such as PINs or passwords act as the first layer of protection by restricting access to authorised users. Together, these mechanisms ensure confidentiality and protect against physical threats to data security.
