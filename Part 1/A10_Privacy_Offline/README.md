@@ -11,10 +11,10 @@ I explored how privacy is protected in offline environments by securing access t
 
 ## Evidence
 Figure 2: Login authentication using a PIN to restrict access.
-![login](evidence/camera_cover.jpg)
+![login](evidence/lockscreen.jpg)
 
 Figure 2: Camera cover used to block webcam and prevent unauthorised recording.
-![close](evidence/close.jpg)
+![close](evidence/camera_cover.jpg)
 
 ## Analysis
 Offline privacy focuses on protecting data stored on devices from unauthorised access and surveillance. Authentication methods such as PINs ensure that only authorised users can access the system. Physical tools like camera covers and microphone blockers prevent unauthorised recording, protecting users from potential privacy breaches. These measures are especially important in shared environments where devices may be exposed to others. Together, they provide both digital and physical layers of privacy protection.
