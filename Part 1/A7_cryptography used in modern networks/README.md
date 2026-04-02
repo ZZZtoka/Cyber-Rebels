@@ -1,7 +1,7 @@
 ## A7. Discover cryptography used in modern networks
 
 ## Description
-I educated a brother about cybersecurity by explaining phishing attacks and how to identify and avoid them.
+I explored how cryptography is used in network communications to secure data transmitted over the internet.
 
 ## Findings
 - Websites use HTTPS to encrypt communication between users and servers

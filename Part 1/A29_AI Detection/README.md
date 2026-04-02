@@ -12,7 +12,7 @@ I explored how AI-generated content can be detected using verification tools.
 Figure 1: Example of an AI-generated image.
 ![ai](evidence/ai.jpg)
 
-Figure 1: Example of an AI-generated image.
+Figure 2: Detection tool identifying the image as AI-generated with high confidence.
 ![aii](evidence/aidetection.jpg)
 
 ## Analysis
