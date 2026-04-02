@@ -10,7 +10,7 @@ I explored how privacy is protected in offline environments by securing access t
 - Limiting physical access to devices improves privacy
 
 ## Evidence
-Figure 2: Login authentication using a PIN to restrict access.
+Figure 1: Login authentication using a PIN to restrict access.
 ![login](evidence/lockscreen.jpg)
 
 Figure 2: Camera cover used to block webcam and prevent unauthorised recording.
