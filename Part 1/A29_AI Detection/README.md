@@ -10,10 +10,10 @@ I explored how AI-generated content can be detected using verification tools.
 
 ## Evidence
 Figure 1: Example of an AI-generated image.
-![ai](evidence/ai1.jpg)
+![ai](Evidence/ai1.jpg)
 
 Figure 2: Detection tool identifying the image as AI-generated with high confidence.
-![aii](evidence/aidetection.jpg)
+![aii](Evidence/aidetection.jpg)
 
 ## Analysis
 AI-generated content is becoming increasingly realistic, making it difficult to distinguish from real images. Detection tools use machine learning techniques to identify patterns and artefacts left by AI models. However, these tools are not always 100% accurate and should be used alongside human judgement. This highlights the importance of verification in cybersecurity and misinformation prevention.

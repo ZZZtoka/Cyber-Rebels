@@ -11,7 +11,7 @@ I completed an online cybersecurity module on penetration testing to improve my 
 
 ## Evidence
 Figure 1: Completion of an online cybersecurity module on penetration testing.
-![complete](evidence/done.jpg)
+![complete](Evidence/done.jpg)
 
 ## Analysis
 Online cybersecurity modules provide structured learning and practical knowledge about security concepts. In this module, penetration testing was introduced as a method to identify weaknesses in systems before attackers can exploit them. This helps organisations improve their security posture and reduce risks.
