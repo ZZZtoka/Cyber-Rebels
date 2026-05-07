@@ -19,9 +19,9 @@ The learning activity was implemented using Google Forms to make the quiz easy t
 
 ## Evidence
 Quiz link: https://docs.google.com/forms/d/e/1FAIpQLScuZnpiFM3OVq9Sr57M6wsGic94iI34r3QruQOG40w4S4O2jQ/viewform?usp=dialog
-![1](evidence/1.jpg)
-![2](evidence/2.jpg)
-![3](evidence/4.jpg)
+![1](Evidence/1.jpg)
+![2](Evidence/2.jpg)
+![3](Evidence/4.jpg)
 
 ## Findings
 The activity demonstrated that phishing awareness and password security are important cybersecurity concepts that many users still struggle with. The quiz helped reinforce safe online behaviour and encouraged participants to think carefully before clicking links or sharing credentials online.

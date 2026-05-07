@@ -21,9 +21,9 @@ AI guardrails are not always fully effective against creative prompt engineering
 
 ## Evidence
 Figure 1: Lakera Gandalf Level 5 jailbreak challenge interface.
-![1](evidence/1.jpg)
+![1](Evidence/1.jpg)
 Figure 2: AI assistant revealing the protected password during the controlled jailbreak test.
-![2](evidence/2.jpg)
+![2](Evidence/2.jpg)
 
 ## Analysis
 Jailbreak attacks are a growing security concern in generative AI systems. Attackers may use indirect prompts, roleplay scenarios, prompt injection, encoding, or instruction manipulation to bypass AI safety mechanisms. In this experiment, the AI assistant was not directly asked for the secret password. Instead, the request was disguised as a coding task, causing the system to unintentionally expose restricted information. This demonstrates how large language models can sometimes prioritise task completion over security constraints. The activity highlights the importance of robust AI alignment, prompt filtering, and secure output validation in modern AI systems.

@@ -12,15 +12,15 @@ I explored strong security implementations used in everyday systems to protect d
 
 ## Evidence
 Figure 1: Secure website showing HTTPS connection with encryption.
-![weak](evidence/strong.jpg)
+![weak](Evidence/strong.jpg)
 Figure 2: Two-factor authentication verification process.
-![http](evidence/two.jpg)
+![http](Evidence/two.jpg)
 Figure 3: Password manager storing credentials securely.
-![public](evidence/password.jpg)
+![public](Evidence/password.jpg)
 Figure 4: Device encryption enabled on system.
-![device](evidence/enableds.jpg)
+![device](Evidence/enableds.jpg)
 Figure 5: Firewall enabled to monitor and block threats.
-![system](evidence/firewall.jpg)
+![system](Evidence/firewall.jpg)
 
 ## Analysis
 Strong security implementations play a critical role in protecting systems from cyber threats. HTTPS ensures that data transmitted between users and websites is encrypted, preventing interception. Two-factor authentication adds an additional layer of security, reducing the risk of account compromise even if passwords are leaked. Password managers help generate and store complex passwords securely, mitigating the risk of weak credentials. Device encryption protects sensitive data at rest, ensuring that even if the device is stolen, the data remains inaccessible. Firewalls act as a barrier between trusted and untrusted networks, filtering malicious traffic and preventing unauthorised access.

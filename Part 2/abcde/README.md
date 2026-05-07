@@ -19,15 +19,15 @@ The solutions researched were:
 
 ## Evidence
 Figure 1: Weak password example showing low password strength.
-![weak](evidence/weak.jpg)
+![weak](Evidence/weak.jpg)
 Figure 2: Website using HTTP without secure encryption.
-![http](evidence/http.jpg)
+![http](Evidence/http.jpg)
 Figure 3: Public WiFi network without password protection.
-![public](evidence/wifi.jpg)
+![public](Evidence/wifi.jpg)
 Figure 4: Device left unlocked without authentication.
-![device](evidence/unlocked.jpg)
+![device](Evidence/unlocked.jpg)
 Figure 5: System showing outdated security updates.
-![system](evidence/outdated.jpg)
+![system](Evidence/outdated.jpg)
 
 ## Analysis
 Weak security implementations significantly increase the risk of cyberattacks. Weak passwords can be easily cracked using brute-force or dictionary attacks. Websites without HTTPS are vulnerable to man-in-the-middle attacks, allowing attackers to intercept sensitive data. Public WiFi networks without authentication expose users to network sniffing and session hijacking. Unlocked devices can be accessed by unauthorised individuals, leading to data breaches. Additionally, outdated software may contain unpatched vulnerabilities that attackers can exploit. These weaknesses demonstrate how poor security practices can compromise confidentiality, integrity, and availability of systems.

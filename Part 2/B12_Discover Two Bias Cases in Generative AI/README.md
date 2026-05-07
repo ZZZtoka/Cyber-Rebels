@@ -10,9 +10,9 @@ I explored bias cases in generative AI systems to understand how AI responds to 
 
 ## Evidence
 Figure 1: AI response to a question about leadership ability and gender.
-![weak](evidence/1.jpg)
+![weak](Evidence/1.jpg)
 Figure 2: AI response to a question comparing intelligence across countries.
-![http](evidence/2.jpg)
+![http](Evidence/2.jpg)
 
 ## Analysis
 Generative AI systems are designed with safety and moderation mechanisms to reduce harmful or biased responses. In these examples, the AI avoided directly favouring a gender or country and instead explained that intelligence and leadership depend on many factors beyond stereotypes. This demonstrates how AI systems attempt to balance fairness, ethics, and inclusiveness when handling sensitive questions. However, the responses also show that bias remains an important concern because AI systems are trained on large datasets that may contain societal biases and cultural assumptions.

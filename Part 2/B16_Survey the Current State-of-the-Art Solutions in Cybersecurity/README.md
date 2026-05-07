@@ -46,11 +46,11 @@ Cross-platform visibility
 
 ## Evidence
 Figure 1: Weak password example showing low password strength.
-![weak](evidence/1.jpg)
+![weak](Evidence/1.jpg)
 Figure 2: Website using HTTP without secure encryption.
-![http](evidence/2.jpg)
+![http](Evidence/2.jpg)
 Figure 3: Public WiFi network without password protection.
-![public](evidence/3.jpg)
+![public](Evidence/3.jpg)
 
 ## Analysis
 From the research, I observed that modern cybersecurity solutions heavily rely on AI and machine learning to improve detection speed and reduce human workload. Most platforms now integrate:

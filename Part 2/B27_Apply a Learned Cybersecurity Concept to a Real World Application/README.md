@@ -19,9 +19,9 @@ I applied cybersecurity concepts learned in this unit to a real-world phishing s
 
 ## Evidence
 Figure 1: Simulated Amazon Seller Central phishing page using a suspicious URL.
-![1](evidence/1.jpg)
+![1](Evidence/1.jpg)
 Figure 2: Dummy credentials captured during the controlled phishing awareness demonstration.
-![2](evidence/2.jpg)
+![2](Evidence/2.jpg)
 
 ## Analysis
 This activity applied the cybersecurity concepts of phishing, social engineering, credential theft, and threat modelling to a real-world scenario. The fake login page looked similar to a real Amazon login page, but the URL showed that it was not an official Amazon domain. This demonstrates how attackers use visual deception to make users trust malicious websites. The controlled dummy credential capture showed how phishing sites can collect usernames and passwords when users enter information without verifying the source. In a real attack, stolen credentials could lead to account takeover, data theft, or financial loss. Mitigations include checking URLs carefully, using password managers, enabling multi-factor authentication, and avoiding links from suspicious emails or messages.

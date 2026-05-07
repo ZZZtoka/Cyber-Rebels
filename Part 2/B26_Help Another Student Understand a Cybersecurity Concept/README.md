@@ -16,7 +16,7 @@ I also explained how STRIDE can be used to classify threats such as spoofing, ta
 
 ## Evidence
 Figure 1: Conversation explaining threat modelling concepts to another student.
-![1](evidence/1.jpg)
+![1](Evidence/1.jpg)
 
 ## Analysis
 Threat modelling is an important cybersecurity process used to identify possible threats, vulnerabilities, and attack paths before security incidents occur. It helps organisations proactively design stronger security controls and reduce risks. Explaining technical concepts to other students improves cybersecurity awareness and reinforces understanding for both the learner and the person teaching the concept.
