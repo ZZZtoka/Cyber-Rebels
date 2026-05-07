@@ -13,8 +13,10 @@ I helped educate my grandparent about phishing scams and online safety after the
 ## Evidence
 Figure 1: Suspicious PayPal phishing email received by my grandparent.
 ![1](Evidence/0.jpg)
+
 Figure 2: My explanation identifying phishing indicators and warning not to click the link.
 ![2](Evidence/1.jpg)
+
 Figure 3: Explanation provided about what phishing means and how scammers operate.
 ![3](Evidence/2.jpg)
 

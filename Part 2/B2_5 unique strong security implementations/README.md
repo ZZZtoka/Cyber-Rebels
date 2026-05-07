@@ -13,12 +13,16 @@ I explored strong security implementations used in everyday systems to protect d
 ## Evidence
 Figure 1: Secure website showing HTTPS connection with encryption.
 ![weak](Evidence/strong.jpg)
+
 Figure 2: Two-factor authentication verification process.
 ![http](Evidence/two.jpg)
+
 Figure 3: Password manager storing credentials securely.
 ![public](Evidence/password.jpg)
+
 Figure 4: Device encryption enabled on system.
 ![device](Evidence/enableds.jpg)
+
 Figure 5: Firewall enabled to monitor and block threats.
 ![system](Evidence/firewall.jpg)
 

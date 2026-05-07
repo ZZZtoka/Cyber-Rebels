@@ -47,8 +47,10 @@ Cross-platform visibility
 ## Evidence
 Figure 1: Weak password example showing low password strength.
 ![weak](Evidence/1.jpg)
+
 Figure 2: Website using HTTP without secure encryption.
 ![http](Evidence/2.jpg)
+
 Figure 3: Public WiFi network without password protection.
 ![public](Evidence/3.jpg)
 

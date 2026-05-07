@@ -22,6 +22,7 @@ AI guardrails are not always fully effective against creative prompt engineering
 ## Evidence
 Figure 1: Lakera Gandalf Level 5 jailbreak challenge interface.
 ![1](Evidence/1.jpg)
+
 Figure 2: AI assistant revealing the protected password during the controlled jailbreak test.
 ![2](Evidence/2.jpg)
 

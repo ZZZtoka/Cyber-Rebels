@@ -16,18 +16,25 @@ I attended an industry-related cybersecurity presentation focused on financial c
 ## Evidence
 Figure 1: Presentation discussing Account Takeover (ATO) attack workflow.
 ![1](Evidence/1.jpg)
+
 Figure 2: Financial crime examples and fraud categories.
 ![2](Evidence/2.jpg)
+
 Figure 3: Fraud detection signals and behavioural analysis.
 ![3](Evidence/3.jpg)
+
 Figure 4: AI-powered fraud detection techniques.
 ![4](Evidence/4.jpg)
+
 Figure 5: AI weaponisation and modern phishing threats.
 ![5](Evidence/5.jpg)
+
 Figure 6: AI defensive systems used in cybersecurity.
 ![6](Evidence/6.jpg)
+
 Figure 7: Fraud trends and cybersecurity threats.
 ![7](Evidence/7.jpg)
+
 Figure 8: Cybersecurity and fraud analysis career pathways.
 ![8](Evidence/8.jpg)
 

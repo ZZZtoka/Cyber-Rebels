@@ -11,6 +11,7 @@ I explored bias cases in generative AI systems to understand how AI responds to 
 ## Evidence
 Figure 1: AI response to a question about leadership ability and gender.
 ![weak](Evidence/1.jpg)
+
 Figure 2: AI response to a question comparing intelligence across countries.
 ![http](Evidence/2.jpg)
 

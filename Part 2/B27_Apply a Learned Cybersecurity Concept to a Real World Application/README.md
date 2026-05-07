@@ -20,6 +20,7 @@ I applied cybersecurity concepts learned in this unit to a real-world phishing s
 ## Evidence
 Figure 1: Simulated Amazon Seller Central phishing page using a suspicious URL.
 ![1](Evidence/1.jpg)
+
 Figure 2: Dummy credentials captured during the controlled phishing awareness demonstration.
 ![2](Evidence/2.jpg)
 

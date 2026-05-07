@@ -11,8 +11,10 @@ I explored proactive security implementations that actively protect systems by p
 ## Evidence
 Figure 1: Antivirus software with real-time protection enabled.
 ![weak](Evidence/anti.jpg)
+
 Figure 2: System showing automatic updates enabled and up to date.
 ![http](Evidence/on.jpg)
+
 Figure 3: Firewall actively monitoring and controlling network traffic.
 ![public](Evidence/blocked.jpg)
 
