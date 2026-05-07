@@ -11,7 +11,7 @@ I designed and created a cyber safety flyer targeted at university students to p
 
 ## Evidence
 Figure 1: Cyber safety flyer created for university students.
-![1](evidence/1.jpg)
+![flyer](evidence/1.jpg)
 
 ## Analysis
 University students are frequent targets of phishing attacks, credential theft, and online scams because they regularly use online services such as email systems, cloud storage, and university portals. Educational awareness materials such as cyber safety flyers can help reduce human-related security risks by encouraging safer online behaviour. Preventive measures such as enabling MFA, checking suspicious links, and using strong passwords significantly improve account security and reduce the likelihood of cyberattacks.
