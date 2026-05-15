@@ -1,7 +1,7 @@
 ## B20_Enhance the Security of a GitHub Project
 
 ## Description
-I enhanced the security of a web-based GitHub project by creating a secure contact form demo for Little Way. The project focused on improving web form security by implementing input validation, format checking, suspicious content filtering, and Google reCAPTCHA v3 protection to reduce bot submissions and common web attacks.
+I enhanced the security of a GitHub project by improving repository security settings and protecting sensitive information from accidental exposure. The project focused on strengthening secure development practices through GitHub security features, secret management, and repository protection mechanisms.
 
 # Project Repository
 
@@ -10,34 +10,32 @@ View the full source code and implementation here:
 [Little Way Secure Contact Form Demo](https://github.com/ZZZtoka/littleway)
 
 ## Findings
-- Implemented Google reCAPTCHA v3 to detect and reject automated bot submissions
-- Added format validation for name, email, phone number, and message fields
-- Rejected invalid inputs that did not match the required format
-- Detected and blocked suspicious script content such as <script>alert(1)</script>
-- Tested automated form submission using PowerShell Invoke-WebRequest
-- Verified server-side rejection responses and reCAPTCHA failure detection
-
+- Enabled GitHub Dependabot alerts and security updates
+- Enabled malware alert monitoring for project dependencies
+- Added a .gitignore file to prevent sensitive files from being uploaded
+- Stored the Google reCAPTCHA secret key securely using environment variables
+- Prevented the .env file from being uploaded to GitHub
+- Improved repository security hygiene and reduced the risk of credential exposure
 
 ## Evidence
-Figure 1: Secure contact form demo with Google reCAPTCHA v3 enabled.
-![1](Evidence/1.png)
+Figure 1: GitHub Dependabot alerts and security update features enabled.
+![1](Evidence/1.jpg)
 
-Figure 2: Invalid name, email, and phone inputs rejected by the system.
-![2](Evidence/2.png)
+Figure 2: .gitignore configuration excluding sensitive files such as .env.
+![2](Evidence/2.jpg)
 
-Figure 3: Suspicious script injection attempt detected and rejected.
-![3](Evidence/3.png)
+Figure 3: Application loading the reCAPTCHA secret key securely using environment variables instead of hardcoded credentials.
+![3](Evidence/3.jpg)
 
-Figure 4: Automated bot-style submission tested using PowerShell.
-![4](Evidence/4.png)
-
-Figure 5: Server log showing failed reCAPTCHA verification response.
-![5](Evidence/5.png)
+Figure 4: GitHub repository file list showing that the `.env` file is not uploaded, while `.gitignore` and project files are visible.
+![4](Evidence/4.jpg)
 
 ## Analysis
-Web contact forms are common targets for spam, automated bot submissions, SQL injection, and cross-site scripting attacks. By implementing Google reCAPTCHA v3, the project added a behavioural protection layer that helps distinguish legitimate users from automated requests. Input validation also improved security by ensuring that submitted data followed expected formats before being processed by the application.
+GitHub repositories may accidentally expose sensitive information such as API keys, credentials, or vulnerable dependencies if security measures are not properly configured. By enabling Dependabot alerts and automated security updates, the repository gained improved monitoring against known vulnerable packages and malicious dependencies. The .gitignore configuration also reduced the risk of uploading confidential files such as .env files containing secret keys.
 
-The project successfully rejected malformed inputs such as invalid email addresses and phone numbers. It also detected suspicious script payloads, reducing the risk of cross-site scripting attacks. The PowerShell automated submission test demonstrated how attackers may attempt to submit forms using scripts instead of a normal browser session. The failed reCAPTCHA verification showed that the system was able to identify and reject suspicious automated activity. These controls show how layered security measures can reduce common web application risks.
+Instead of hardcoding the Google reCAPTCHA secret key directly inside the application source code, the project used environment variables through os.getenv() to securely load the secret value during runtime. This approach improves secure secret management practices and reduces the likelihood of sensitive credentials being publicly exposed through the repository.
+
+These improvements demonstrate the importance of repository security, secure coding practices, and proactive protection of sensitive information during software development.
 
 ## Reflection
-This activity improved my understanding of secure web application development and defensive cybersecurity practices. I learned that protecting a form requires more than just a visible user interface; server-side validation, input filtering, and bot detection are also important. Implementing and testing these protections helped me understand how developers can proactively reduce risks such as spam, XSS, SQL injection attempts, and automated abuse in real-world web applications.
+This activity improved my understanding of secure software development and GitHub repository security management. I learned that cybersecurity is not only about protecting deployed applications, but also about securing development environments, dependencies, and sensitive configuration files. Implementing GitHub security features and secure secret management practices helped me better understand the importance of preventing accidental credential exposure and maintaining secure development workflows.
